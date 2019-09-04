@@ -38,7 +38,7 @@ sections:
   - background_style: style2
     component: spotlights.html
     section_id: one
-    title: Spotlights Section
+    title: Intro
     type: spotlights
   - actions:
       - is_primary: false
@@ -84,7 +84,7 @@ sections:
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
       hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
       quis lorem.
-    title: What we do
+    title: Services
     type: features
   - background_style: style1
     component: contact.html
