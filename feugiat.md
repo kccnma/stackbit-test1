@@ -5,7 +5,7 @@ home_spotlights:
   enabled: true
   excerpt: >-
     Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus. Hi Yoon.
+    mauris, eu ultricies erat malesuada quis. Aliquam dapibus. Hello.
   home_img:
     data_position: top center
     path: images/pic02.jpg
