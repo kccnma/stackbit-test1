@@ -1,7 +1,7 @@
 title: Site Name
 baseurl: /
 permalink: '/:title/'
-palette: blue
+palette: green
 palettes:
   blue:
     sass:
