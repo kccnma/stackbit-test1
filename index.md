@@ -33,7 +33,7 @@ sections:
       forestry, contentful, and dato cms). Four steps: 1) pick a theme, 2) pick
       a static site generator, 3) select a cms, and 4) deploy via github and
       netlify. Super simple.
-    title: Stackbit Static Generated Site
+    title: Stackbit Static Generated Test Site
     type: intro
   - background_style: style2
     component: spotlights.html
